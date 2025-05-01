@@ -1,0 +1,12 @@
+[package]
+name = "map-view"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+galileo = {git = "https://github.com/maximkaaa/galileo"}
+galileo-types = {git = "https://github.com/maximkaaa/galileo"}
+galileo-egui = {git = "https://github.com/maximkaaa/galileo"}
+tokio = "1.44.2"
+egui = "0.31.1"
+eframe = "0.31.1"
