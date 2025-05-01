@@ -4,9 +4,9 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-galileo = {path = "../galileo/galileo"}
-galileo-types = {path = "../galileo/galileo-types"}
-galileo-egui = {path = "../galileo/galileo-egui"}
+galileo = {git = "https://github.com/maximkaaa/galileo"}
+galileo-types = {path = "https://github.com/maximkaaa/galileo"}
+galileo-egui = {path = "https://github.com/maximkaaa/galileo"}
 tokio = "1.44.2"
 egui = "0.31.1"
 eframe = "0.31.1"
