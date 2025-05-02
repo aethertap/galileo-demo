@@ -5,8 +5,8 @@ edition = "2024"
 
 [dependencies]
 galileo = {git = "https://github.com/maximkaaa/galileo"}
-galileo-types = {path = "https://github.com/maximkaaa/galileo"}
-galileo-egui = {path = "https://github.com/maximkaaa/galileo"}
+galileo-types = {git = "https://github.com/maximkaaa/galileo"}
+galileo-egui = {git = "https://github.com/maximkaaa/galileo"}
 tokio = "1.44.2"
 egui = "0.31.1"
 eframe = "0.31.1"
