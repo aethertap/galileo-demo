@@ -1680,6 +1680,7 @@ dependencies = [
 [[package]]
 name = "galileo"
 version = "0.1.1"
+source = "git+https://github.com/maximkaaa/galileo#523d7806c576515c2f620d1fae72f3d47966871f"
 dependencies = [
  "ahash",
  "async-trait",
@@ -1730,6 +1731,7 @@ dependencies = [
 [[package]]
 name = "galileo-egui"
 version = "0.1.1"
+source = "git+https://github.com/maximkaaa/galileo#523d7806c576515c2f620d1fae72f3d47966871f"
 dependencies = [
  "eframe",
  "egui",
@@ -1745,6 +1747,7 @@ dependencies = [
 [[package]]
 name = "galileo-mvt"
 version = "0.1.1"
+source = "git+https://github.com/maximkaaa/galileo#523d7806c576515c2f620d1fae72f3d47966871f"
 dependencies = [
  "bytes",
  "galileo-types",
@@ -1761,6 +1764,7 @@ dependencies = [
 [[package]]
 name = "galileo-types"
 version = "0.1.1"
+source = "git+https://github.com/maximkaaa/galileo#523d7806c576515c2f620d1fae72f3d47966871f"
 dependencies = [
  "approx",
  "geo-types",
